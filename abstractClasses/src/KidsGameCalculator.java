@@ -1,0 +1,2 @@
+public class KidsGameCalculator extends GameCalculator{
+}
